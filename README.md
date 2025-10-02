@@ -1,7 +1,3 @@
-# samyak-jain-iitm.github.io
-
-<!--email_off-->25ds1000058@ds.study.iitm.ac.in<!--/email_off-->
-
 # Hello, I'm SAMYAK JAIN
 <a href="https://www.linkedin.com/in/samyakjain-ds"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://drive.google.com/file/d/1poExsi7iUS9BDXEW-pql98mhcx2D1w2K/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=resume&logoColor=white"/></a>
